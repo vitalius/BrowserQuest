@@ -4,6 +4,11 @@ BrowserQuest
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
+05-13-2025
+----------
+Updated to run with Podman, see pod.sh -- clone and run with './pod.sh up'
+
+
 Documentation
 -------------
 
