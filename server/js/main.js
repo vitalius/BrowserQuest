@@ -2,6 +2,11 @@
 var fs = require('fs'),
     Metrics = require('./metrics');
 
+//var express = require('express');
+//const path = require('path');
+//var app = express();
+//app.use('/client', express.static('/app/client'));
+
 
 function main(config) {
     var ws = require("./ws"),
