@@ -3,7 +3,7 @@
 
 function help_menu() {
   cat << EOF
-  usage: jelly.sh COMMAND
+  usage: pod.sh COMMAND
   COMMAND can be:
     up - Start the Service.
     down - Stop and Remove.
